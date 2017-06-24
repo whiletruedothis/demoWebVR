@@ -1,0 +1,14 @@
+{
+	"name": "demowebvr",
+	"version": "1.0.0",
+	"description": "A demo for the WebVR for io17cochabamba",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"author": "@whiletruedothis",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.15.2"
+	}
+}
